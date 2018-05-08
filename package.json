@@ -1,0 +1,22 @@
+{
+  "name": "websockettest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "websocket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Knu334/WebSocketTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Knu334/WebSocketTest/issues"
+  },
+  "homepage": "https://github.com/Knu334/WebSocketTest#readme",
+  "dependencies": {
+    "websocket": "^1.0.26"
+  }
+}
